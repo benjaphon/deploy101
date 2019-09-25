@@ -1,0 +1,1 @@
+[25-Sep-2019 05:27:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home1/benjaphon/deploy101/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 148
